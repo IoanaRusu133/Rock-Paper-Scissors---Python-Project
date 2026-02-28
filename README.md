@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors - Python Game 🪨 📄 ✂️
 
-This project is the implementation of the exercise from **Section 7** of the **"100 Days of Code™: The Complete Python Pro Bootcamp"** course by **Angela Yu** on Udemy.
+This project is the implementation of the exercise from **Section 4** of the **"100 Days of Code™: The Complete Python Pro Bootcamp"** course by **Angela Yu** on Udemy.
 
 ## 🎯 Project Objective
 The goal was to create an interactive command-line version of "Rock, Paper, Scissors" using Python, focusing on:
